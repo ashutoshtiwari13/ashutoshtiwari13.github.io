@@ -21,30 +21,30 @@
     </item>
     
     <item>
-      <title>Sample project 1</title>
-      <link>https://ashutoshtiwari13.github.io/portfolio/project-1/</link>
+      <title>Follow me-Quadrocopter Simulation</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://ashutoshtiwari13.github.io/portfolio/project-1/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-6/</guid>
+      <description>Project Heads-up A deep neural network to identify and track a target (person) via a simulated Quadrocopter (Simulated using Udacity QuadSim by Unity).</description>
     </item>
     
     <item>
-      <title>Sample project 2</title>
-      <link>https://ashutoshtiwari13.github.io/portfolio/project-2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://ashutoshtiwari13.github.io/portfolio/project-2/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Sample project 4</title>
+      <title>Map the Robot World using SLAM and RTAB-MAP</title>
       <link>https://ashutoshtiwari13.github.io/portfolio/project-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
       <guid>https://ashutoshtiwari13.github.io/portfolio/project-4/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Project Heads-up SLAM(Simultaneous Localization and mapping) (Nvidia Article here) is a technology where a robot builds a map representing its spatial environment while keeping a track of its position within the built map.</description>
+    </item>
+    
+    <item>
+      <title>PR2-Robot 3D Perception and Control</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-3/</guid>
+      <description>Project Heads-up This project gives the PR2 robot the ability to locate an object in a cluttered environment, pick it up and then move it to some other location.</description>
     </item>
     
   </channel>

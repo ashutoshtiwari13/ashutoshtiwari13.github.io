@@ -30,21 +30,31 @@
     </item>
     
     <item>
-      <title>Sample project 3</title>
-      <link>https://ashutoshtiwari13.github.io/portfolio/project-3/</link>
+      <title>Follow me-Quadrocopter Simulation</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://ashutoshtiwari13.github.io/portfolio/project-3/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-6/</guid>
+      <description>Project Heads-up A deep neural network to identify and track a target (person) via a simulated Quadrocopter (Simulated using Udacity QuadSim by Unity).</description>
     </item>
     
     <item>
-      <title>Sample project 4</title>
-      <link>https://ashutoshtiwari13.github.io/portfolio/project-4/</link>
+      <title>Kuka-Robotic Arm Pick and Drop</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://ashutoshtiwari13.github.io/portfolio/project-4/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-5/</guid>
+      <description>Project Heads-up To be Updated
+Project Details Click 👉 for Project Details </description>
+    </item>
+    
+    <item>
+      <title>Rover perception and Control</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-7/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-7/</guid>
+      <description>Project Heads-up This project uses essential elements of Robotics, perception, decision making and Actuation to drive a rover Autonomously.</description>
     </item>
     
   </channel>
