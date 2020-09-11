@@ -58,6 +58,15 @@ Click 👉 for Project Details </description>
     </item>
     
     <item>
+      <title>Cartpole Environment using REINFORCE</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-12/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-12/</guid>
+      <description>Project Heads-up REINFORCE algorithm is based on finding the local maximum of a function using a procedure known as gradient ascent.</description>
+    </item>
+    
+    <item>
       <title>Motion Detector Using OpenCV</title>
       <link>https://ashutoshtiwari13.github.io/portfolio/project-9/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
@@ -73,6 +82,15 @@ Click 👉 for Project Details </description>
       
       <guid>https://ashutoshtiwari13.github.io/portfolio/project-7/</guid>
       <description>Project Heads-up This project uses essential elements of Robotics, perception, decision making and Actuation to drive a rover Autonomously.</description>
+    </item>
+    
+    <item>
+      <title>Unity Tennis Environment using Multi-agent DDPG</title>
+      <link>https://ashutoshtiwari13.github.io/portfolio/project-15/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://ashutoshtiwari13.github.io/portfolio/project-15/</guid>
+      <description>Project Heads-up The projetc uses the Tennis environment, where two agents control rackets to bounce ball over a net.</description>
     </item>
     
   </channel>
